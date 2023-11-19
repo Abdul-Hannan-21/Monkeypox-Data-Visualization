@@ -28,3 +28,7 @@ Ensure Python and required libraries are installed.
 Modify the json_file_path variable in the script with the path to your Monkeypox data JSON file.
 Run the script to generate the line chart.
 Explore, analyze, and gain valuable insights from the Monkeypox Data Visualization!
+
+
+![Monkeypox Data Visualization](photo/monkeypoxcasesinEu.png)
+
